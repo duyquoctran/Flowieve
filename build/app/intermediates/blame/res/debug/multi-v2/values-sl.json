@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\user\\Downloads\\Android-Things-master\\Android-Things-master\\machine_learning_flutter_app-master\\machine_learning_flutter_app-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "outputFile": "C:\\Users\\user\\Downloads\\Flowieve\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\2c7c10092ca09eec3c645686a83c05cc\\jetified-play-services-basement-17.0.0\\res\\values-sl\\values.xml",

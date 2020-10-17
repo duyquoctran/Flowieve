@@ -12,20 +12,20 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->C:\Users\user\Downloads\Flowieve\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\user\Downloads\Flowieve\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
-15-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+15-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+15-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
-16-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+16-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+16-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-17-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+17-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+17-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
-18-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
-18-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
+18-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
+18-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
 19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 19-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a1328a97e0a391348e228cc11cfeeae5\play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
 19-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a1328a97e0a391348e228cc11cfeeae5\play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
@@ -37,39 +37,39 @@
 25         FlutterApplication and put your custom class here.
 26    -->
 27    <application
-27-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:8:5-29:19
+27-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:8:5-29:19
 28        android:name="io.flutter.app.FlutterApplication"
-28-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:9:9-57
+28-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:9:9-57
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\765d948781557ca60ad60520b9d583b2\core-1.1.0\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:11:9-43
+31-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:11:9-43
 32        android:label="Flowieve" >
-32-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:10:9-33
+32-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:10:9-33
 33        <activity
-33-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:12:9-23:20
+33-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:12:9-23:20
 34            android:name="com.theindianappguy.machine_learning_flutter_app.MainActivity"
-34-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:13:13-41
+34-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:13:13-41
 35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-35-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:16:13-163
+35-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:16:13-163
 36            android:hardwareAccelerated="true"
-36-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:17:13-47
+36-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:17:13-47
 37            android:launchMode="singleTop"
-37-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:14:13-43
+37-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:14:13-43
 38            android:theme="@style/LaunchTheme"
-38-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:15:13-47
+38-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:15:13-47
 39            android:windowSoftInputMode="adjustResize" >
-39-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:18:13-55
+39-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:18:13-55
 40            <intent-filter>
-40-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:19:13-22:29
+40-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:19:13-22:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:20:17-68
-41-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:20:25-66
+41-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:20:17-68
+41-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:20:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:21:17-76
-43-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:21:27-74
+43-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:21:17-76
+43-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:21:27-74
 44            </intent-filter>
 45        </activity>
 46        <!--
@@ -77,44 +77,44 @@
 48             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 49        -->
 50        <meta-data
-50-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:26:9-28:33
+50-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:26:9-28:33
 51            android:name="flutterEmbedding"
-51-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:27:13-44
+51-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:27:13-44
 52            android:value="2" />
-52-->C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\android\app\src\main\AndroidManifest.xml:28:13-30
+52-->C:\Users\user\Downloads\Flowieve\android\app\src\main\AndroidManifest.xml:28:13-30
 53
 54        <service
-54-->[:firebase_storage] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+54-->[:firebase_storage] C:\Users\user\Downloads\Flowieve\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 55            android:name="com.google.firebase.components.ComponentDiscoveryService"
-55-->[:firebase_storage] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+55-->[:firebase_storage] C:\Users\user\Downloads\Flowieve\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 56            android:directBootAware="true"
 56-->[com.google.firebase:firebase-common:19.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\be6c7d0a01da255edd4ebd2ec8a708ff\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 57            android:exported="false" >
 57-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dabf6277090e314ccc96495c411e23e0\play-services-measurement-api-17.5.0\AndroidManifest.xml:29:13-37
 58            <meta-data
-58-->[:firebase_storage] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+58-->[:firebase_storage] C:\Users\user\Downloads\Flowieve\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 59                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-59-->[:firebase_storage] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+59-->[:firebase_storage] C:\Users\user\Downloads\Flowieve\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
 60                android:value="com.google.firebase.components.ComponentRegistrar" />
-60-->[:firebase_storage] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+60-->[:firebase_storage] C:\Users\user\Downloads\Flowieve\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 61            <meta-data
-61-->[:cloud_firestore] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+61-->[:cloud_firestore] C:\Users\user\Downloads\Flowieve\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 62                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-62-->[:cloud_firestore] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+62-->[:cloud_firestore] C:\Users\user\Downloads\Flowieve\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
 63                android:value="com.google.firebase.components.ComponentRegistrar" />
-63-->[:cloud_firestore] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+63-->[:cloud_firestore] C:\Users\user\Downloads\Flowieve\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 64            <meta-data
-64-->[:firebase_core] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+64-->[:firebase_core] C:\Users\user\Downloads\Flowieve\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-65-->[:firebase_core] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+65-->[:firebase_core] C:\Users\user\Downloads\Flowieve\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[:firebase_core] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+66-->[:firebase_core] C:\Users\user\Downloads\Flowieve\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 67            <meta-data
-67-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:85
+67-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar"
-68-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-127
+68-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-127
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:firebase_analytics] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-82
+69-->[:firebase_analytics] C:\Users\user\Downloads\Flowieve\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-82
 70            <meta-data
 70-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dabf6277090e314ccc96495c411e23e0\play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
 71                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
@@ -142,21 +142,21 @@
 82        </service>
 83
 84        <provider
-84-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+84-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
 85            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-85-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+85-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
 86            android:authorities="com.theindianappguy.machine_learning_flutter_app.flutter.image_provider"
-86-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+86-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
 87            android:exported="false"
-87-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+87-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 88            android:grantUriPermissions="true" >
-88-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+88-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
 89            <meta-data
-89-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+89-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
 90                android:name="android.support.FILE_PROVIDER_PATHS"
-90-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+90-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 91                android:resource="@xml/flutter_image_picker_file_paths" />
-91-->[:image_picker] C:\Users\user\Downloads\Android-Things-master\Android-Things-master\machine_learning_flutter_app-master\machine_learning_flutter_app-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+91-->[:image_picker] C:\Users\user\Downloads\Flowieve\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 92        </provider>
 93
 94        <receiver

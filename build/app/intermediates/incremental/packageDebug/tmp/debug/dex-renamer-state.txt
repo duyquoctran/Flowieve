@@ -1,10 +1,10 @@
-#Sat Oct 17 11:05:48 ICT 2020
+#Sat Oct 17 13:42:13 ICT 2020
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=C\:\\Users\\user\\Downloads\\Android-Things-master\\Android-Things-master\\machine_learning_flutter_app-master\\machine_learning_flutter_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
-base.1=C\:\\Users\\user\\Downloads\\Android-Things-master\\Android-Things-master\\machine_learning_flutter_app-master\\machine_learning_flutter_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
-base.0=C\:\\Users\\user\\Downloads\\Android-Things-master\\Android-Things-master\\machine_learning_flutter_app-master\\machine_learning_flutter_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+base.2=C\:\\Users\\user\\Downloads\\Flowieve\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
+base.1=C\:\\Users\\user\\Downloads\\Flowieve\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
+base.0=C\:\\Users\\user\\Downloads\\Flowieve\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
